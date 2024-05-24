@@ -1,0 +1,27 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 0.5rem;
+  }
+  
+  .name {
+    font-weight: 600;
+  }
+  
+  .price {
+    margin-bottom: 0.5rem;
+  }
+  
+  .wrapper img {
+    margin-bottom: 0.5rem;
+    border-radius: 3px;
+  }
+
+  .add-cart-button{
+    background-color: green;
+    color: white;
+  }
+
+  .add-cart-button:hover{
+    background-color: lightgreen;
+  }

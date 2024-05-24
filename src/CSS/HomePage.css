@@ -1,0 +1,23 @@
+.text {
+    margin-right: 3rem;
+    padding: 3rem;
+    float: left;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+img {
+    margin-left: 3rem;
+    padding: 3rem;
+    float: right;
+}
+
+button{
+    background-color: rgb(79, 222, 79);
+    color: white;
+}
+
+button:hover{
+    background-color: deeppink;
+}

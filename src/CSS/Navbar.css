@@ -1,0 +1,32 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 1rem;
+    background-color: lightgrey;
+  }
+  
+  .header-nav {
+    width: 100%;
+    margin-top: 0;
+    padding: 1rem;
+    background-color: green;
+    text-align: center;
+    color: white;  
+  }
+
+  
+  .nav-link {
+    display: flex;
+    gap: 3rem;
+    padding: 1rem 0;
+    color:blue
+  }
+  
+  .nav-link a:hover {
+    text-decoration: underline solid 2px;
+    cursor: pointer;
+  }
